@@ -25,7 +25,34 @@ I would like to receive a text such as "Thank you! Your order was placed and wil
 '''
 ```
 ## Class Design
+```python
+#lib/Menu.py
+```
+```python
+#lib/Order.py
+```
+```python
+#lib/Messenger.py
+```
+```python
+#lib/Restaurant.py
+```
 
 ## Unit Tests
+```python
+#tests/test_Menu.py
+```
+```python
+#tests/test_Order.py
+```
+```python
+#tests/test_Messenger.py
+```
+```python
+#tests/test_Restaurant.py
+```
 
 ## Integration Tests
+```python
+#tests/test_integration.py
+```
